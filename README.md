@@ -57,3 +57,20 @@ I work across AI model evaluation and web application development. My experience
 ## Publication
 
 Co-author, **“Graph Neural Networks for Automated Fault Localization in Complex Software Systems”** · IJMER
+
+## GitHub Status
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChetanKumar4u&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanKumar4u&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChetanKumar4u&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChetanKumar4u&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true" alt="GitHub achievement trophies" />
+</p>
